@@ -1,4 +1,4 @@
-# Module_Eight_Journal
+# CS-300-Module-Eight-Journal
 CS 300 Module Eight Journal
 
 The main problem we were solving with the projects in this course was how to incoporate different data structures into an application. With each data structure, there is many considerations taken like how algorithms are written and the underlying structure of the data structure.
